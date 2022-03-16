@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ListView</string>
+    <string name="recept">Recept</string>
+    <string name="n_zev">Název</string>
 </resources>
